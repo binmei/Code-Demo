@@ -1,0 +1,92 @@
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\MathFun1000.dll.config
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\MathFun1000.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\MathFun1000.pdb
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Antlr3.Runtime.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.Core.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\EntityFramework.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\EntityFramework.SqlServer.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Newtonsoft.Json.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\System.Web.Optimization.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\System.Web.Providers.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\WebGrease.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Mono.Math.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Antlr3.Runtime.pdb
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Newtonsoft.Json.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\System.Web.Optimization.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\EntityFramework.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\EntityFramework.SqlServer.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\System.Web.Providers.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.Core.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\Mono.Math.xml
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\obj\Debug\MathFun1000.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\obj\Debug\MathFun1000.pdb
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\bin\MySql.Data.dll
+C:\Users\dmoore\Documents\GitHub\MathFun1001\MathFun1000\obj\Debug\MathFun1000.csprojResolveAssemblyReference.cache
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\MathFun1000.dll.config
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\MathFun1000.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\MathFun1000.pdb
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Antlr3.Runtime.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.Core.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\EntityFramework.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\EntityFramework.SqlServer.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\MySql.Data.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Newtonsoft.Json.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\System.Web.Optimization.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\System.Web.Providers.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\WebGrease.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Mono.Math.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Antlr3.Runtime.pdb
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Newtonsoft.Json.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\System.Web.Optimization.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\EntityFramework.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\EntityFramework.SqlServer.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\System.Web.Providers.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.Core.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\bin\Mono.Math.xml
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\obj\Debug\MathFun1000.csprojResolveAssemblyReference.cache
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\obj\Debug\MathFun1000.dll
+C:\Users\Bin Mei\Documents\GitHub\MathFun1002\MathFun1001\MathFun1000\obj\Debug\MathFun1000.pdb
