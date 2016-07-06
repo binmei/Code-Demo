@@ -1,0 +1,107 @@
+**********************************************************************************************
+*
+*CSCD 305 CPP HW#4 - LinkedList of Linking Things All Together and Stuff
+*By: Bin Mei
+*Aug 15th, 2014
+*Compiler Used: VS CL only, G++ error message included.
+*Description of Classes:
+*	main - test methods
+*
+**********************************************************************************************
+
+C:\Users\Bin Mei\Dropbox\305 CPP\HW 4\LinkedList8>g++ -std=c++11 *.cpp > Error.t
+xt
+main.cpp: In function 'void testforprimitives()':
+main.cpp:32:36: error: no matching function for call to 'LinkedList<float>::Link
+edList(LinkedList<float>)'
+  LinkedList<float> list3 = list1 + list2;
+                                    ^
+main.cpp:32:36: note: candidates are:
+In file included from LinkedList.h:109:0,
+                 from main.cpp:9:
+LinkedList.cpp:15:1: note: LinkedList<T>::LinkedList(LinkedList<T>&) [with T = f
+loat]
+ LinkedList<T>::LinkedList(LinkedList<T>& list)
+ ^
+LinkedList.cpp:15:1: note:   no known conversion for argument 1 from 'LinkedList
+<float>' to 'LinkedList<float>&'
+LinkedList.cpp:7:1: note: LinkedList<T>::LinkedList() [with T = float]
+ LinkedList<T>::LinkedList()
+ ^
+LinkedList.cpp:7:1: note:   candidate expects 0 arguments, 1 provided
+main.cpp: In function 'void testforuserdefinewithMenu()':
+main.cpp:55:30: warning: deprecated conversion from string constant to 'char*' [
+-Wwrite-strings]
+  CBigInteger a ("12312321312");
+                              ^
+main.cpp:56:27: warning: deprecated conversion from string constant to 'char*' [
+-Wwrite-strings]
+  CBigInteger b ("21312321");
+                           ^
+main.cpp:57:26: warning: deprecated conversion from string constant to 'char*' [
+-Wwrite-strings]
+  CBigInteger c ("3213213");
+                          ^
+main.cpp:58:31: warning: deprecated conversion from string constant to 'char*' [
+-Wwrite-strings]
+  CBigInteger d ("323213123213");
+                               ^
+main.cpp:59:29: warning: deprecated conversion from string constant to 'char*' [
+-Wwrite-strings]
+  CBigInteger e ("2131232321");
+                             ^
+main.cpp:72:42: error: no matching function for call to 'LinkedList<CBigInteger>
+::LinkedList(LinkedList<CBigInteger>)'
+  LinkedList<CBigInteger> list3 = list1 + list2;
+                                          ^
+main.cpp:72:42: note: candidates are:
+In file included from LinkedList.h:109:0,
+                 from main.cpp:9:
+LinkedList.cpp:15:1: note: LinkedList<T>::LinkedList(LinkedList<T>&) [with T = C
+BigInteger]
+ LinkedList<T>::LinkedList(LinkedList<T>& list)
+ ^
+LinkedList.cpp:15:1: note:   no known conversion for argument 1 from 'LinkedList
+<CBigInteger>' to 'LinkedList<CBigInteger>&'
+LinkedList.cpp:7:1: note: LinkedList<T>::LinkedList() [with T = CBigInteger]
+ LinkedList<T>::LinkedList()
+ ^
+LinkedList.cpp:7:1: note:   candidate expects 0 arguments, 1 provided
+LinkedList.cpp: In instantiation of 'LinkedList<T> LinkedList<T>::operator+(Link
+edList<T>&) [with T = float]':
+main.cpp:32:36:   required from here
+LinkedList.cpp:119:40: error: no matching function for call to 'LinkedList<float
+>::LinkedList(LinkedList<float>)'
+  return LinkedList<T>(std::move(result));
+                                        ^
+LinkedList.cpp:119:40: note: candidates are:
+LinkedList.cpp:15:1: note: LinkedList<T>::LinkedList(LinkedList<T>&) [with T = f
+loat]
+ LinkedList<T>::LinkedList(LinkedList<T>& list)
+ ^
+LinkedList.cpp:15:1: note:   no known conversion for argument 1 from 'LinkedList
+<float>' to 'LinkedList<float>&'
+LinkedList.cpp:7:1: note: LinkedList<T>::LinkedList() [with T = float]
+ LinkedList<T>::LinkedList()
+ ^
+LinkedList.cpp:7:1: note:   candidate expects 0 arguments, 1 provided
+LinkedList.cpp: In instantiation of 'LinkedList<T> LinkedList<T>::operator+(Link
+edList<T>&) [with T = CBigInteger]':
+main.cpp:72:42:   required from here
+LinkedList.cpp:119:40: error: no matching function for call to 'LinkedList<CBigI
+nteger>::LinkedList(LinkedList<CBigInteger>)'
+  return LinkedList<T>(std::move(result));
+                                        ^
+LinkedList.cpp:119:40: note: candidates are:
+LinkedList.cpp:15:1: note: LinkedList<T>::LinkedList(LinkedList<T>&) [with T = C
+BigInteger]
+ LinkedList<T>::LinkedList(LinkedList<T>& list)
+ ^
+LinkedList.cpp:15:1: note:   no known conversion for argument 1 from 'LinkedList
+<CBigInteger>' to 'LinkedList<CBigInteger>&'
+LinkedList.cpp:7:1: note: LinkedList<T>::LinkedList() [with T = CBigInteger]
+ LinkedList<T>::LinkedList()
+ ^
+LinkedList.cpp:7:1: note:   candidate expects 0 arguments, 1 provided
+
+C:\Users\Bin Mei\Dropbox\305 CPP\HW 4\LinkedList8>

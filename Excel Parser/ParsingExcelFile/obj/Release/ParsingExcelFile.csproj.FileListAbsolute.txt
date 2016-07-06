@@ -1,0 +1,26 @@
+C:\Users\Bin Mei\Desktop\Update 8\ParsingExcelFile\bin\Release\ParsingExcelFile.exe.config
+C:\Users\Bin Mei\Desktop\Update 8\ParsingExcelFile\bin\Release\ParsingExcelFile.exe
+C:\Users\Bin Mei\Desktop\Update 8\ParsingExcelFile\bin\Release\ParsingExcelFile.pdb
+C:\Users\Bin Mei\Desktop\Update 8\ParsingExcelFile\obj\Release\ParsingExcelFile.csprojResolveAssemblyReference.cache
+C:\Users\Bin Mei\Desktop\Update 8\ParsingExcelFile\obj\Release\ParsingExcelFile.Form1.resources
+C:\Users\Bin Mei\Desktop\Update 8\ParsingExcelFile\obj\Release\ParsingExcelFile.Properties.Resources.resources
+C:\Users\Bin Mei\Desktop\Update 8\ParsingExcelFile\obj\Release\ParsingExcelFile.csproj.GenerateResource.Cache
+C:\Users\Bin Mei\Desktop\Update 8\ParsingExcelFile\obj\Release\ParsingExcelFile.exe
+C:\Users\Bin Mei\Desktop\Update 8\ParsingExcelFile\obj\Release\ParsingExcelFile.pdb
+D:\ParsingExcelFile Final Version\ParsingExcelFile\bin\Release\ParsingExcelFile.exe.config
+D:\ParsingExcelFile Final Version\ParsingExcelFile\bin\Release\ParsingExcelFile.exe
+D:\ParsingExcelFile Final Version\ParsingExcelFile\bin\Release\ParsingExcelFile.pdb
+D:\ParsingExcelFile Final Version\ParsingExcelFile\obj\Release\ParsingExcelFile.csprojResolveAssemblyReference.cache
+D:\ParsingExcelFile Final Version\ParsingExcelFile\obj\Release\ParsingExcelFile.Form1.resources
+D:\ParsingExcelFile Final Version\ParsingExcelFile\obj\Release\ParsingExcelFile.Properties.Resources.resources
+D:\ParsingExcelFile Final Version\ParsingExcelFile\obj\Release\ParsingExcelFile.csproj.GenerateResource.Cache
+D:\ParsingExcelFile Final Version\ParsingExcelFile\obj\Release\ParsingExcelFile.exe
+D:\ParsingExcelFile Final Version\ParsingExcelFile\obj\Release\ParsingExcelFile.pdb
+D:\ParsingExcelFile Final Version\Source Code\ParsingExcelFile\bin\Release\ParsingExcelFile.exe.config
+D:\ParsingExcelFile Final Version\Source Code\ParsingExcelFile\obj\Release\ParsingExcelFile.exe
+D:\ParsingExcelFile Final Version\Source Code\ParsingExcelFile\obj\Release\ParsingExcelFile.pdb
+D:\ParsingExcelFile Final Version\Source Code\ParsingExcelFile\bin\Release\ParsingExcelFile.exe
+D:\ParsingExcelFile Final Version\Source Code\ParsingExcelFile\bin\Release\ParsingExcelFile.pdb
+D:\ParsingExcelFile Final Version\Source Code\ParsingExcelFile\obj\Release\ParsingExcelFile.Form1.resources
+D:\ParsingExcelFile Final Version\Source Code\ParsingExcelFile\obj\Release\ParsingExcelFile.Properties.Resources.resources
+D:\ParsingExcelFile Final Version\Source Code\ParsingExcelFile\obj\Release\ParsingExcelFile.csproj.GenerateResource.Cache

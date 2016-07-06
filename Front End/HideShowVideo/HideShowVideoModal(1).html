@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+<head>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.3.min.js"></script>
+	<script>
+	$(document).ready(function(){
+		// Load the IFrame Player API code asynchronously.
+		var tag = document.createElement('script');
+		tag.src = "https://www.youtube.com/player_api";
+		var firstScriptTag = document.getElementsByTagName('script')[0];
+		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+		// Replace the 'ytplayer' element with an <iframe> and
+		// YouTube player after the API code downloads.
+		var player;
+		function onYouTubePlayerAPIReady() {
+		player = new YT.Player('ytplayer', {
+		  height: '390',
+		  width: '640',
+		  videoId: '8VgxxUrUhs0'
+		});
+		}
+		  
+		$("#btn1").click(function(){
+			onYouTubePlayerAPIReady();
+			$("#firstPanel").hide();
+			$("#secondPanel").show();
+		});
+		
+		$("#btn2").click(function(){
+			stopVideo()
+			
+			$("#firstPanel").show();
+			$("#secondPanel").hide();
+			return false;
+			
+		
+		});
+		
+		function stopVideo(){
+			if(player.getPlayerState != 0){
+				player.stopVideo();
+			}
+		}
+	});
+	</script>
+
+	<style>
+	.panel{
+		width:640px;
+		height:390px;
+		float:left;
+		background-color:lightblue;
+		color:white;
+		border: 2px solid black;
+	}
+	
+	#secondPanel .ytplayer{
+		float:left;
+		left:50%;
+		top:0px;
+		z-index = -1;
+		width:100%;
+		height:auto;
+		position:absolute;
+	}
+
+	.container {
+		margin-left:2%;
+		margin-top:2%;
+		margin-right:2%;
+		float:left;
+		width:94%;
+		height: auto;
+		background-color:lightgrey;
+	}
+	
+	.text{
+		margin-left:2%;
+		width:50%;
+		float:left;
+	}
+	
+	#secondPanel #btn2{
+		float:left; 
+		top:0px;
+		z-index=1;
+		position:absolute;
+	}
+	
+	</style>
+</head>
+
+<body>
+	<div class = "container">
+		<div class="panel" id="firstPanel">
+			<img id="btn1" src="btn_play.png" alt="Play Video" style="float:left;width:120px;height:80px;z-index:2;opacity:60%;position:absolute; top:190px; left:300px;">
+			<img src="https://i.ytimg.com/vi/8VgxxUrUhs0/hqdefault.jpg" style="float:left;width:640px;height:390px;z-index:1;position:relative">
+			<!--<button id="btn1" type="button" style="z-index:1;">Hide First Panel!</button>-->
+		</div>
+	
+		<div class="panel" id="secondPanel" style="display:none">
+			<img id="btn2" src="btn_close.png" alt="Play Video" style="float:right;width:42px;height:42px;z-index:1;opacity:60%;position:absolute;     top: 35px;    left: 637px;">
+			<!--<button id="btn2" type="button">Hide Second Panel!</button>-->
+			<div id="ytplayer"></div>  
+		</div>
+		
+		<div class="text">
+			<h4>Roast Almond Recipe</h4>
+			<p>Makes: 4 to 6 servings</p>
+			<p>Time: 15 minutes</p>
+			<p>I suggest relying heavily on pecans or walnuts, almonds, pistachios, and cashews, with a sprinkling of anything else handy.</p>
+			<p>2 cups (about 1 pound) mixed unsalted shelled nuts</p>
+			<p>2 tablespoons peanut oil or melted butter</p>
+			<p>Salt and freshly ground black pepper</p>
+			<p>Heat the oven to 450°F. Toss the nuts in a bowl with the oil or butter and some salt and pepper. Put on a baking sheet and roast, shaking occasionally, until lightly browned, about 10 minutes. Cool before serving; they will crisp as they cool.</p>
+			<p>Spiced Buttered Nuts. Real bar food: Add 1 teaspoon to 1 tablespoon of any spice mixture, like chili or curry powder, to the mix. If roasting, toss the nuts with the spice at the beginning. If sautéing, add it to the butter or oil as it heats.</p>
+		</div>
+</body>
+</html>
